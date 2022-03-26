@@ -1,0 +1,2 @@
+This is a created using writeFile funtion!
+Adding a new line
