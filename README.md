@@ -15,7 +15,8 @@ This is Asynchronous way of delivering the food.
 
 I hope you understood the basic difference.
 You will see in the repository, there are two js files.
-Kindly go through it to see the practical implementation in Node.js
+Kindly go through it to see the practical implementation in Node.js.
+Moreover, check out the image.png to see what happens when you run the js files.
 
 If you have any doubt, feel free to connect.
 Stay Safe, Stay Healthy :)
